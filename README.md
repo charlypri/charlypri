@@ -4,7 +4,7 @@
 - 📫 You can reach me through linkedn at: https://www.linkedin.com/in/carlos-prieto-fernandez-737219181/
 
 # Other projects
+- http://chainflation.com
 - https://escaperoomchangethings.org/
-- https://juglando.org/
 - https://toutmounsemoun.org/wp-content/uploads/EscapeRoom/index.html
 
