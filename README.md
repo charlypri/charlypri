@@ -6,5 +6,5 @@
 # Other projects
 - http://chainflation.com
 - https://escaperoomchangethings.org/
-- https://toutmounsemoun.org/wp-content/uploads/EscapeRoom/index.html
+- AI-summarizer : https://644523e2de489d2840102002--rad-llama-a359a0.netlify.app/)
 
